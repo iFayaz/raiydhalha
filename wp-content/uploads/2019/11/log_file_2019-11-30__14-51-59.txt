@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: School were successfully downloaded!
+MAX EXECUTION TIME = 120
+Files info:
+Site URL = http://localhost/raiydhalha
+Data file = C:\wamp64\www\raiydhalha/wp-content/uploads/2019/11/demo-content-import-file_2019-11-30__14-51-59.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 3
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 4
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 14.994199991226econds.
