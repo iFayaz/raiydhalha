@@ -1,3 +1,4 @@
 url: http://localhost/raiydhalha
 name: Raiydhalha
 description: Just another WordPress site
+permalink: /:categories/:year/:month/:day/:title
